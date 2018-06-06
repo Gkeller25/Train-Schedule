@@ -1,0 +1,10 @@
+body{background-image: url("../images/Black-Space-Background.jpg");
+    background-color: black;
+    font-family:"STARWARS";}
+#titleHead{
+    background-image: url("../images/conveyex.jpg");
+}
+#trainInput{
+    
+}
+@font-face {font-family:"STARWARS";src:url("../images/STARWARS.ttf") format("truetype");font-weight:normal;font-style:normal;}
